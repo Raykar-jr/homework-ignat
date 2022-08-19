@@ -1,0 +1,14 @@
+.errorWrapper {
+    text-align: center;
+}
+img {
+    border-radius: 30%;
+}
+.title {
+    font-family: Bahnschrift, sans-serif;
+    font-size: 20px;
+    color: #fc0000;
+}
+.smile {
+    font-size: 30px;
+}
