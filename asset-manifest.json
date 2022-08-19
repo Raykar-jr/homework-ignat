@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-ignat/static/css/main.66d476c5.css",
+    "main.js": "/homework-ignat/static/js/main.2373c8e1.js",
+    "index.html": "/homework-ignat/index.html",
+    "main.66d476c5.css.map": "/homework-ignat/static/css/main.66d476c5.css.map",
+    "main.2373c8e1.js.map": "/homework-ignat/static/js/main.2373c8e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66d476c5.css",
+    "static/js/main.2373c8e1.js"
+  ]
+}
